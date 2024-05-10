@@ -1,4 +1,4 @@
-# Project Name
+# BE App
 
 This is a PHP project using the Laravel framework. This document includes instructions for setting up the project, initializing the development environment, and configuring and running the database.
 
