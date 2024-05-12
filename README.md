@@ -60,7 +60,7 @@ Follow these steps to set up the project:
    ```
    This can skipped if you using xampp or phpmyadmin.
 
-2. RunMigrations
+2. Run Migrations
     Use Laravel's migration feature to set up the database tables:
     ```bash
    php artisan migrate
@@ -92,3 +92,5 @@ php artisan help <command>
 Displays help for a specific command, explaining its purpose and usage, including all options and arguments.
 
 ### [Create database](database/)
+### [About public](public/)
+

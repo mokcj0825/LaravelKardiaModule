@@ -100,4 +100,6 @@ To drop an entire table:
 
 ### Conclusion
 
-This guide covers the essential database management tasks using Laravel's Artisan command-line tool. By following these instructions, developers can effectively create, modify, and manage the database schema of a Laravel application.
+If possible, think before create, after created, don't simply change your dataase schema.
+Alright, I know this is possible, we need append a lot of things. I would suggest append then remove instead of just 
+simply modify it.
